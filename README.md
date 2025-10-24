@@ -21,4 +21,4 @@ Copy `tts.el` into `~/.emacs.d/` and add to your `init.el`:
 | `C-c S` | Continuous reading through buffer |
 | `C-c x` | Stop speech immediately           |
 
-
+Feel free to fork and share!
