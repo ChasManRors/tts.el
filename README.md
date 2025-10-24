@@ -1,10 +1,6 @@
 # macOS TTS for Emacs (`tts.el`)
 
-An Emacs Lisp extension for smooth, continuous text-to-speech on macOS Apple Silicon using the built-in `say` command.
-
-# macOS TTS for Emacs (`tts.el`)
-
-An Emacs Lisp extension for smooth, continuous text-to-speech on macOS using the built-in `say` command.
+An Emacs Lisp extension for smooth, continuous text-to-speech on macOS Apple Silicon using the built-in `say` command. I expect it will work on non-ARM but have not tested that nor do I think there is a need.
 
 ## Features
 - Continuous paragraph reading (`C-c S`)
